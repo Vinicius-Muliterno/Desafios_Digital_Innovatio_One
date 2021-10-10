@@ -1,0 +1,16 @@
+C:\Users\vinic\OneDrive\Área de Trabalho\DIO - Desafio\DesafiosDioCSharp\Numeroimpares\bin\Debug\net5.0\Numeroimpares.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\DIO - Desafio\DesafiosDioCSharp\Numeroimpares\bin\Debug\net5.0\Numeroimpares.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\DIO - Desafio\DesafiosDioCSharp\Numeroimpares\bin\Debug\net5.0\Numeroimpares.runtimeconfig.json
+C:\Users\vinic\OneDrive\Área de Trabalho\DIO - Desafio\DesafiosDioCSharp\Numeroimpares\bin\Debug\net5.0\Numeroimpares.runtimeconfig.dev.json
+C:\Users\vinic\OneDrive\Área de Trabalho\DIO - Desafio\DesafiosDioCSharp\Numeroimpares\bin\Debug\net5.0\Numeroimpares.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\DIO - Desafio\DesafiosDioCSharp\Numeroimpares\bin\Debug\net5.0\ref\Numeroimpares.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\DIO - Desafio\DesafiosDioCSharp\Numeroimpares\bin\Debug\net5.0\Numeroimpares.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\DIO - Desafio\DesafiosDioCSharp\Numeroimpares\obj\Debug\net5.0\Numeroimpares.csproj.AssemblyReference.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\DIO - Desafio\DesafiosDioCSharp\Numeroimpares\obj\Debug\net5.0\Numeroimpares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\DIO - Desafio\DesafiosDioCSharp\Numeroimpares\obj\Debug\net5.0\Numeroimpares.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\DIO - Desafio\DesafiosDioCSharp\Numeroimpares\obj\Debug\net5.0\Numeroimpares.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\DIO - Desafio\DesafiosDioCSharp\Numeroimpares\obj\Debug\net5.0\Numeroimpares.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\DIO - Desafio\DesafiosDioCSharp\Numeroimpares\obj\Debug\net5.0\Numeroimpares.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\DIO - Desafio\DesafiosDioCSharp\Numeroimpares\obj\Debug\net5.0\ref\Numeroimpares.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\DIO - Desafio\DesafiosDioCSharp\Numeroimpares\obj\Debug\net5.0\Numeroimpares.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\DIO - Desafio\DesafiosDioCSharp\Numeroimpares\obj\Debug\net5.0\Numeroimpares.genruntimeconfig.cache

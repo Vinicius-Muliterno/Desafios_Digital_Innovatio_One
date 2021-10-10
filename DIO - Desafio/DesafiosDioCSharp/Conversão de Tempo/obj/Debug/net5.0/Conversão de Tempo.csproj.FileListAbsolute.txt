@@ -1,0 +1,16 @@
+C:\Users\vinic\OneDrive\Área de Trabalho\DIO - Desafio\DesafiosDioCSharp\Conversão de Tempo\bin\Debug\net5.0\Conversão de Tempo.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\DIO - Desafio\DesafiosDioCSharp\Conversão de Tempo\bin\Debug\net5.0\Conversão de Tempo.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\DIO - Desafio\DesafiosDioCSharp\Conversão de Tempo\bin\Debug\net5.0\Conversão de Tempo.runtimeconfig.json
+C:\Users\vinic\OneDrive\Área de Trabalho\DIO - Desafio\DesafiosDioCSharp\Conversão de Tempo\bin\Debug\net5.0\Conversão de Tempo.runtimeconfig.dev.json
+C:\Users\vinic\OneDrive\Área de Trabalho\DIO - Desafio\DesafiosDioCSharp\Conversão de Tempo\bin\Debug\net5.0\Conversão de Tempo.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\DIO - Desafio\DesafiosDioCSharp\Conversão de Tempo\bin\Debug\net5.0\ref\Conversão de Tempo.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\DIO - Desafio\DesafiosDioCSharp\Conversão de Tempo\bin\Debug\net5.0\Conversão de Tempo.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\DIO - Desafio\DesafiosDioCSharp\Conversão de Tempo\obj\Debug\net5.0\Conversão de Tempo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\DIO - Desafio\DesafiosDioCSharp\Conversão de Tempo\obj\Debug\net5.0\Conversão de Tempo.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\DIO - Desafio\DesafiosDioCSharp\Conversão de Tempo\obj\Debug\net5.0\Conversão de Tempo.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\DIO - Desafio\DesafiosDioCSharp\Conversão de Tempo\obj\Debug\net5.0\Conversão de Tempo.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\DIO - Desafio\DesafiosDioCSharp\Conversão de Tempo\obj\Debug\net5.0\Conversão de Tempo.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\DIO - Desafio\DesafiosDioCSharp\Conversão de Tempo\obj\Debug\net5.0\ref\Conversão de Tempo.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\DIO - Desafio\DesafiosDioCSharp\Conversão de Tempo\obj\Debug\net5.0\Conversão de Tempo.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\DIO - Desafio\DesafiosDioCSharp\Conversão de Tempo\obj\Debug\net5.0\Conversão de Tempo.genruntimeconfig.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\DIO - Desafio\DesafiosDioCSharp\Conversão de Tempo\obj\Debug\net5.0\Conversão de Tempo.csproj.AssemblyReference.cache
