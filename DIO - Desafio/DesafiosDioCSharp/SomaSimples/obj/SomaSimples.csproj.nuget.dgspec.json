@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\DIO - Desafio\\DesafiosDioCSharp\\SomaSimples\\SomaSimples.csproj": {}
+    "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Desafios_Digital_Innovatio_One\\DIO - Desafio\\DesafiosDioCSharp\\SomaSimples\\SomaSimples.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\DIO - Desafio\\DesafiosDioCSharp\\SomaSimples\\SomaSimples.csproj": {
+    "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Desafios_Digital_Innovatio_One\\DIO - Desafio\\DesafiosDioCSharp\\SomaSimples\\SomaSimples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\DIO - Desafio\\DesafiosDioCSharp\\SomaSimples\\SomaSimples.csproj",
+        "projectUniqueName": "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Desafios_Digital_Innovatio_One\\DIO - Desafio\\DesafiosDioCSharp\\SomaSimples\\SomaSimples.csproj",
         "projectName": "SomaSimples",
-        "projectPath": "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\DIO - Desafio\\DesafiosDioCSharp\\SomaSimples\\SomaSimples.csproj",
+        "projectPath": "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Desafios_Digital_Innovatio_One\\DIO - Desafio\\DesafiosDioCSharp\\SomaSimples\\SomaSimples.csproj",
         "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\DIO - Desafio\\DesafiosDioCSharp\\SomaSimples\\obj\\",
+        "outputPath": "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Desafios_Digital_Innovatio_One\\DIO - Desafio\\DesafiosDioCSharp\\SomaSimples\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vinic\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,15 @@
+C:\Users\vinic\OneDrive\Área de Trabalho\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Omaior\bin\Debug\net5.0\Omaior.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Omaior\bin\Debug\net5.0\Omaior.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Omaior\bin\Debug\net5.0\Omaior.runtimeconfig.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Omaior\bin\Debug\net5.0\Omaior.runtimeconfig.dev.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Omaior\bin\Debug\net5.0\Omaior.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Omaior\bin\Debug\net5.0\ref\Omaior.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Omaior\bin\Debug\net5.0\Omaior.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Omaior\obj\Debug\net5.0\Omaior.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Omaior\obj\Debug\net5.0\Omaior.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Omaior\obj\Debug\net5.0\Omaior.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Omaior\obj\Debug\net5.0\Omaior.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Omaior\obj\Debug\net5.0\Omaior.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Omaior\obj\Debug\net5.0\ref\Omaior.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Omaior\obj\Debug\net5.0\Omaior.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Omaior\obj\Debug\net5.0\Omaior.genruntimeconfig.cache

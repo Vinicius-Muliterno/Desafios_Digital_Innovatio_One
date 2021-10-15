@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\DIO - Desafio\\DesafiosDioCSharp\\Conversão de Tempo\\Conversão de Tempo.csproj",
+      "projectUniqueName": "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Desafios_Digital_Innovatio_One\\DIO - Desafio\\DesafiosDioCSharp\\Conversão de Tempo\\Conversão de Tempo.csproj",
       "projectName": "Conversão de Tempo",
-      "projectPath": "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\DIO - Desafio\\DesafiosDioCSharp\\Conversão de Tempo\\Conversão de Tempo.csproj",
+      "projectPath": "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Desafios_Digital_Innovatio_One\\DIO - Desafio\\DesafiosDioCSharp\\Conversão de Tempo\\Conversão de Tempo.csproj",
       "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\DIO - Desafio\\DesafiosDioCSharp\\Conversão de Tempo\\obj\\",
+      "outputPath": "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Desafios_Digital_Innovatio_One\\DIO - Desafio\\DesafiosDioCSharp\\Conversão de Tempo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vinic\\AppData\\Roaming\\NuGet\\NuGet.Config",
