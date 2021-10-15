@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Desafios_Digital_Innovatio_One\\DIO - Desafio\\DesafiosDioCSharp\\Multiplos\\Multiplos.csproj",
+      "projectUniqueName": "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Meus Projetos\\Desafios_Digital_Innovatio_One\\DIO - Desafio\\DesafiosDioCSharp\\Multiplos\\Multiplos.csproj",
       "projectName": "Multiplos",
-      "projectPath": "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Desafios_Digital_Innovatio_One\\DIO - Desafio\\DesafiosDioCSharp\\Multiplos\\Multiplos.csproj",
+      "projectPath": "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Meus Projetos\\Desafios_Digital_Innovatio_One\\DIO - Desafio\\DesafiosDioCSharp\\Multiplos\\Multiplos.csproj",
       "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Desafios_Digital_Innovatio_One\\DIO - Desafio\\DesafiosDioCSharp\\Multiplos\\obj\\",
+      "outputPath": "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Meus Projetos\\Desafios_Digital_Innovatio_One\\DIO - Desafio\\DesafiosDioCSharp\\Multiplos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vinic\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

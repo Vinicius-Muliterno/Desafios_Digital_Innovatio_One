@@ -11,7 +11,7 @@ namespace ValidacaoDeNota
             nota = Convert.ToInt32(Console.ReadLine());
 
 
-
+            teste de mudança de commit
 
         }
     }

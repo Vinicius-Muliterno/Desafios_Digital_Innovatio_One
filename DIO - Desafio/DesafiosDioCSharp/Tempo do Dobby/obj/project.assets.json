@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Desafios_Digital_Innovatio_One\\DIO - Desafio\\DesafiosDioCSharp\\Tempo do Dobby\\Tempo do Dobby.csproj",
+      "projectUniqueName": "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Meus Projetos\\Desafios_Digital_Innovatio_One\\DIO - Desafio\\DesafiosDioCSharp\\Tempo do Dobby\\Tempo do Dobby.csproj",
       "projectName": "Tempo do Dobby",
-      "projectPath": "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Desafios_Digital_Innovatio_One\\DIO - Desafio\\DesafiosDioCSharp\\Tempo do Dobby\\Tempo do Dobby.csproj",
+      "projectPath": "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Meus Projetos\\Desafios_Digital_Innovatio_One\\DIO - Desafio\\DesafiosDioCSharp\\Tempo do Dobby\\Tempo do Dobby.csproj",
       "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Desafios_Digital_Innovatio_One\\DIO - Desafio\\DesafiosDioCSharp\\Tempo do Dobby\\obj\\",
+      "outputPath": "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Meus Projetos\\Desafios_Digital_Innovatio_One\\DIO - Desafio\\DesafiosDioCSharp\\Tempo do Dobby\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vinic\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
