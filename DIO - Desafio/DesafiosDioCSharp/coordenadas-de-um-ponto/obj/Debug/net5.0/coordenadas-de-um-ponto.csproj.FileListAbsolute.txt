@@ -1,0 +1,16 @@
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\coordenadas-de-um-ponto\bin\Debug\net5.0\coordenadas-de-um-ponto.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\coordenadas-de-um-ponto\bin\Debug\net5.0\coordenadas-de-um-ponto.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\coordenadas-de-um-ponto\bin\Debug\net5.0\coordenadas-de-um-ponto.runtimeconfig.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\coordenadas-de-um-ponto\bin\Debug\net5.0\coordenadas-de-um-ponto.runtimeconfig.dev.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\coordenadas-de-um-ponto\bin\Debug\net5.0\coordenadas-de-um-ponto.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\coordenadas-de-um-ponto\bin\Debug\net5.0\ref\coordenadas-de-um-ponto.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\coordenadas-de-um-ponto\bin\Debug\net5.0\coordenadas-de-um-ponto.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\coordenadas-de-um-ponto\obj\Debug\net5.0\coordenadas-de-um-ponto.csproj.AssemblyReference.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\coordenadas-de-um-ponto\obj\Debug\net5.0\coordenadas-de-um-ponto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\coordenadas-de-um-ponto\obj\Debug\net5.0\coordenadas-de-um-ponto.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\coordenadas-de-um-ponto\obj\Debug\net5.0\coordenadas-de-um-ponto.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\coordenadas-de-um-ponto\obj\Debug\net5.0\coordenadas-de-um-ponto.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\coordenadas-de-um-ponto\obj\Debug\net5.0\coordenadas-de-um-ponto.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\coordenadas-de-um-ponto\obj\Debug\net5.0\ref\coordenadas-de-um-ponto.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\coordenadas-de-um-ponto\obj\Debug\net5.0\coordenadas-de-um-ponto.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\coordenadas-de-um-ponto\obj\Debug\net5.0\coordenadas-de-um-ponto.genruntimeconfig.cache

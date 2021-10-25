@@ -1,0 +1,15 @@
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Ho Ho Ho\bin\Debug\net5.0\Ho Ho Ho.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Ho Ho Ho\bin\Debug\net5.0\Ho Ho Ho.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Ho Ho Ho\bin\Debug\net5.0\Ho Ho Ho.runtimeconfig.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Ho Ho Ho\bin\Debug\net5.0\Ho Ho Ho.runtimeconfig.dev.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Ho Ho Ho\bin\Debug\net5.0\Ho Ho Ho.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Ho Ho Ho\bin\Debug\net5.0\ref\Ho Ho Ho.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Ho Ho Ho\bin\Debug\net5.0\Ho Ho Ho.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Ho Ho Ho\obj\Debug\net5.0\Ho Ho Ho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Ho Ho Ho\obj\Debug\net5.0\Ho Ho Ho.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Ho Ho Ho\obj\Debug\net5.0\Ho Ho Ho.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Ho Ho Ho\obj\Debug\net5.0\Ho Ho Ho.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Ho Ho Ho\obj\Debug\net5.0\Ho Ho Ho.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Ho Ho Ho\obj\Debug\net5.0\ref\Ho Ho Ho.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Ho Ho Ho\obj\Debug\net5.0\Ho Ho Ho.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Ho Ho Ho\obj\Debug\net5.0\Ho Ho Ho.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Sequencia-Logica-2\bin\Debug\net5.0\Sequencia-Logica-2.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Sequencia-Logica-2\bin\Debug\net5.0\Sequencia-Logica-2.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Sequencia-Logica-2\bin\Debug\net5.0\Sequencia-Logica-2.runtimeconfig.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Sequencia-Logica-2\bin\Debug\net5.0\Sequencia-Logica-2.runtimeconfig.dev.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Sequencia-Logica-2\bin\Debug\net5.0\Sequencia-Logica-2.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Sequencia-Logica-2\bin\Debug\net5.0\ref\Sequencia-Logica-2.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Sequencia-Logica-2\bin\Debug\net5.0\Sequencia-Logica-2.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Sequencia-Logica-2\obj\Debug\net5.0\Sequencia-Logica-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Sequencia-Logica-2\obj\Debug\net5.0\Sequencia-Logica-2.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Sequencia-Logica-2\obj\Debug\net5.0\Sequencia-Logica-2.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Sequencia-Logica-2\obj\Debug\net5.0\Sequencia-Logica-2.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Sequencia-Logica-2\obj\Debug\net5.0\Sequencia-Logica-2.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Sequencia-Logica-2\obj\Debug\net5.0\ref\Sequencia-Logica-2.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Sequencia-Logica-2\obj\Debug\net5.0\Sequencia-Logica-2.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Sequencia-Logica-2\obj\Debug\net5.0\Sequencia-Logica-2.genruntimeconfig.cache

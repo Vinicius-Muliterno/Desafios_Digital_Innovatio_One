@@ -1,0 +1,16 @@
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\ValidacaoDeNota\bin\Debug\net5.0\ValidacaoDeNota.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\ValidacaoDeNota\bin\Debug\net5.0\ValidacaoDeNota.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\ValidacaoDeNota\bin\Debug\net5.0\ValidacaoDeNota.runtimeconfig.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\ValidacaoDeNota\bin\Debug\net5.0\ValidacaoDeNota.runtimeconfig.dev.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\ValidacaoDeNota\bin\Debug\net5.0\ValidacaoDeNota.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\ValidacaoDeNota\bin\Debug\net5.0\ref\ValidacaoDeNota.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\ValidacaoDeNota\bin\Debug\net5.0\ValidacaoDeNota.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\ValidacaoDeNota\obj\Debug\net5.0\ValidacaoDeNota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\ValidacaoDeNota\obj\Debug\net5.0\ValidacaoDeNota.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\ValidacaoDeNota\obj\Debug\net5.0\ValidacaoDeNota.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\ValidacaoDeNota\obj\Debug\net5.0\ValidacaoDeNota.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\ValidacaoDeNota\obj\Debug\net5.0\ValidacaoDeNota.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\ValidacaoDeNota\obj\Debug\net5.0\ref\ValidacaoDeNota.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\ValidacaoDeNota\obj\Debug\net5.0\ValidacaoDeNota.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\ValidacaoDeNota\obj\Debug\net5.0\ValidacaoDeNota.genruntimeconfig.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\ValidacaoDeNota\obj\Debug\net5.0\ValidacaoDeNota.csproj.AssemblyReference.cache

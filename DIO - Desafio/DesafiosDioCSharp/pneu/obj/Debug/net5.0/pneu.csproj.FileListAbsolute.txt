@@ -1,0 +1,15 @@
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\pneu\bin\Debug\net5.0\pneu.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\pneu\bin\Debug\net5.0\pneu.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\pneu\bin\Debug\net5.0\pneu.runtimeconfig.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\pneu\bin\Debug\net5.0\pneu.runtimeconfig.dev.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\pneu\bin\Debug\net5.0\pneu.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\pneu\bin\Debug\net5.0\ref\pneu.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\pneu\bin\Debug\net5.0\pneu.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\pneu\obj\Debug\net5.0\pneu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\pneu\obj\Debug\net5.0\pneu.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\pneu\obj\Debug\net5.0\pneu.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\pneu\obj\Debug\net5.0\pneu.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\pneu\obj\Debug\net5.0\pneu.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\pneu\obj\Debug\net5.0\ref\pneu.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\pneu\obj\Debug\net5.0\pneu.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\pneu\obj\Debug\net5.0\pneu.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Meus Projetos\\Desafios_Digital_Innovatio_One\\DIO - Desafio\\DesafiosDioCSharp\\DDD\\DDD.csproj": {}
+    "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Meus Projetos\\dio\\Desafios_Digital_Innovatio_One\\DIO - Desafio\\DesafiosDioCSharp\\DDD\\DDD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Meus Projetos\\Desafios_Digital_Innovatio_One\\DIO - Desafio\\DesafiosDioCSharp\\DDD\\DDD.csproj": {
+    "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Meus Projetos\\dio\\Desafios_Digital_Innovatio_One\\DIO - Desafio\\DesafiosDioCSharp\\DDD\\DDD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Meus Projetos\\Desafios_Digital_Innovatio_One\\DIO - Desafio\\DesafiosDioCSharp\\DDD\\DDD.csproj",
+        "projectUniqueName": "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Meus Projetos\\dio\\Desafios_Digital_Innovatio_One\\DIO - Desafio\\DesafiosDioCSharp\\DDD\\DDD.csproj",
         "projectName": "DDD",
-        "projectPath": "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Meus Projetos\\Desafios_Digital_Innovatio_One\\DIO - Desafio\\DesafiosDioCSharp\\DDD\\DDD.csproj",
+        "projectPath": "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Meus Projetos\\dio\\Desafios_Digital_Innovatio_One\\DIO - Desafio\\DesafiosDioCSharp\\DDD\\DDD.csproj",
         "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Meus Projetos\\Desafios_Digital_Innovatio_One\\DIO - Desafio\\DesafiosDioCSharp\\DDD\\obj\\",
+        "outputPath": "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Meus Projetos\\dio\\Desafios_Digital_Innovatio_One\\DIO - Desafio\\DesafiosDioCSharp\\DDD\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vinic\\AppData\\Roaming\\NuGet\\NuGet.Config",

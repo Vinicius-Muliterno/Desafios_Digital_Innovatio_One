@@ -1,0 +1,16 @@
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Tipos-de-Triângulos\bin\Debug\net5.0\Tipos-de-Triângulos.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Tipos-de-Triângulos\bin\Debug\net5.0\Tipos-de-Triângulos.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Tipos-de-Triângulos\bin\Debug\net5.0\Tipos-de-Triângulos.runtimeconfig.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Tipos-de-Triângulos\bin\Debug\net5.0\Tipos-de-Triângulos.runtimeconfig.dev.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Tipos-de-Triângulos\bin\Debug\net5.0\Tipos-de-Triângulos.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Tipos-de-Triângulos\bin\Debug\net5.0\ref\Tipos-de-Triângulos.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Tipos-de-Triângulos\bin\Debug\net5.0\Tipos-de-Triângulos.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Tipos-de-Triângulos\obj\Debug\net5.0\Tipos-de-Triângulos.csproj.AssemblyReference.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Tipos-de-Triângulos\obj\Debug\net5.0\Tipos-de-Triângulos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Tipos-de-Triângulos\obj\Debug\net5.0\Tipos-de-Triângulos.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Tipos-de-Triângulos\obj\Debug\net5.0\Tipos-de-Triângulos.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Tipos-de-Triângulos\obj\Debug\net5.0\Tipos-de-Triângulos.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Tipos-de-Triângulos\obj\Debug\net5.0\Tipos-de-Triângulos.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Tipos-de-Triângulos\obj\Debug\net5.0\ref\Tipos-de-Triângulos.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Tipos-de-Triângulos\obj\Debug\net5.0\Tipos-de-Triângulos.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\Tipos-de-Triângulos\obj\Debug\net5.0\Tipos-de-Triângulos.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\PoligonosRetangulares\bin\Debug\net5.0\PoligonosRetangulares.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\PoligonosRetangulares\bin\Debug\net5.0\PoligonosRetangulares.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\PoligonosRetangulares\bin\Debug\net5.0\PoligonosRetangulares.runtimeconfig.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\PoligonosRetangulares\bin\Debug\net5.0\PoligonosRetangulares.runtimeconfig.dev.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\PoligonosRetangulares\bin\Debug\net5.0\PoligonosRetangulares.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\PoligonosRetangulares\bin\Debug\net5.0\ref\PoligonosRetangulares.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\PoligonosRetangulares\bin\Debug\net5.0\PoligonosRetangulares.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\PoligonosRetangulares\obj\Debug\net5.0\PoligonosRetangulares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\PoligonosRetangulares\obj\Debug\net5.0\PoligonosRetangulares.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\PoligonosRetangulares\obj\Debug\net5.0\PoligonosRetangulares.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\PoligonosRetangulares\obj\Debug\net5.0\PoligonosRetangulares.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\PoligonosRetangulares\obj\Debug\net5.0\PoligonosRetangulares.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\PoligonosRetangulares\obj\Debug\net5.0\ref\PoligonosRetangulares.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\PoligonosRetangulares\obj\Debug\net5.0\PoligonosRetangulares.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Meus Projetos\Desafios_Digital_Innovatio_One\DIO - Desafio\DesafiosDioCSharp\PoligonosRetangulares\obj\Debug\net5.0\PoligonosRetangulares.genruntimeconfig.cache
